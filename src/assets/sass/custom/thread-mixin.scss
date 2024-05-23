@@ -1,0 +1,29 @@
+.input-group-alternative {
+  background-color: white !important;
+}
+.hwt-container {
+  width: 100% !important;
+  display: block !important;
+
+  .hwt-backdrop {
+    width: 100% !important;
+    overflow: hidden !important;
+    padding-right: 0 !important;
+  }
+
+  .hwt-content {
+    width: 100% !important;
+    overflow: hidden !important;
+    border: none !important;
+    padding: 0.625rem 0.75rem !important;
+    font-size: 0.875rem !important;
+  }
+}
+.hwt-content mark {
+  background-color: red !important;
+  border-radius: 3px !important;
+}
+#upload-container {
+  position: relative !important;
+  height: auto !important;
+}
